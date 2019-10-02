@@ -1,2 +1,4 @@
-# nonlinearity
-Classical &amp; quantum tools for computing non-linearity of a Boolean function
+# Quantum and Classical Nonlinearity Estimation Techniques
+Non-linearity is an important cryptographic characteristic of a Boolean function. Boolean functions with low nonlinearity can be easily approximated to linear Boolean functions. In cryptography, this approximation can be used to mount attacks on the encyption protocols. On the other hand, encryption schemes that use Boolean functions with high non-linearity are hard to mount an attack on. Hence highly non-linear Boolean functions are of high cryptograpic importance.
+
+In this repository, we have provided calssical and quantum tools for computing the non-linearity of a given Boolean function. These tools were developed as a part of the research on cyrptographic properties of Boolean functions by the authors at IIIT-D. For help on implementation, please read README.txt
